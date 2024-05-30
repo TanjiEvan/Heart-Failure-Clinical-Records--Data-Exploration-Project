@@ -1,2 +1,4 @@
 # Heart-Failure-Clinical-Records--Data-Exploration-Project
  Conducted an in-depth examination of heart failure clinical records, employing data exploration techniques to uncover patterns and insights for improved understanding
+
+This dataset contains the medical records of 299 patients who had heart failure, collected during their follow-up period, where each patient profile has 13 clinical features.It covers various attributes such as age, anaemia, creatinine phosphokinase, diabetes, ejection_fraction, high blood pressure, platelets, serum creatinine,sex, smoking, time, and death event. This project include exploring the dataset, dealing with missing values,calculating statistical measures (mean, median, mode), identifying and handling outliers, visualizing data through plots, and performing data conversion and normalization.
